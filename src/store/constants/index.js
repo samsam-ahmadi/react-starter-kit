@@ -1,0 +1,5 @@
+const TYPE = {};
+TYPE.REQUEST = 'REQUEST';
+TYPE.RESPONSE = 'RESPONSE';
+
+export { TYPE };
